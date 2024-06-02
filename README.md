@@ -2,7 +2,7 @@
 
 ## I'm an Computer Scientist!
 - 🔭   I’m graduated in Computer Science at Federal Technological University of Paraná!
-- 🌱   I’m currently Learning Angular, Java and Typscript.
+- 🌱   I’m currently Learning Angular, Java and Typescript.
 - 🔧 Developer at Tytotech - Desenvolvimento FullStack
 - 📫   My e-mail: henrque02@gmail.com
 
